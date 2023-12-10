@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-h&fi0()bn4f-ex(oo27qd*1!c8s*1)*j25pdvxnnv&$u5kgni0
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'git.heroku.com/robinf98-django-todo.git'
+    'robinf98-django-todo-60ff8323c6d1.herokuapp.com'
 ]
 
 
